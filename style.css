@@ -1,0 +1,96 @@
+.jumbotron h1 {
+  color: white;
+}
+
+.navbar-brand {
+  max-width: 200px;
+}
+
+.navbar .container-fluid .navbar-brand {
+    margin-left: 100px;
+}
+
+.navbar-right {
+    margin-right: 100px;
+}
+
+.no-background {
+  background-color: transparent;
+  border: none;
+}
+
+.jumbotron .container .row .col-md-6 {
+  padding-top:20px;
+  margin-top:0;
+}
+
+.jumbotron .container .row .col-md-6 h1 {
+  color: white;
+  font-size: 45px;
+  text-align: center;
+}
+
+.jumbotron .container .row .col-md-6 p {
+  color: white;
+  font-size: 18px;
+  text-align: center;
+}
+
+main {
+  padding-top: 20px;
+}
+
+main .container .row .col-md-6 h2 {
+  font-size: 25px;
+  text-align: center;
+}
+
+main .container .row .col-md-6 p {
+  color: 	#696969;
+  text-align: center;
+}
+
+.main2-grey {
+  background-color: #F2F2F2;
+  border: 1.5px solid #D3D3D3;
+  text-align: center;
+  padding: 50px 0;
+  color: #696969;
+}
+
+.main2-grey .row .col-md-6 h2 {
+  font-size: 25px;
+  color: black;
+}
+
+.container .contact .row .col-md-2 p,
+.container .contact .row .col-md-2 h4 {
+  color: #696969;
+}
+
+.contact p {
+  margin-bottom: 0px;
+}
+
+.contact {
+  padding: 50px 0;
+  color: #696969;
+}
+
+.contact .link-email {
+  color: #1E90FF;
+}
+
+form {
+  padding-top: 10px;
+}
+
+footer {
+  background-color: black;
+}
+
+footer h5 {
+  color: white;
+  margin: 20px 0 20px 20px;
+  font-family: calibri;
+}
